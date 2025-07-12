@@ -12,6 +12,14 @@ As principais medidas que utilizei foram:
 
 Além disso, realizei **tratamento de dados** para garantir a qualidade e a precisão das análises.
 
+## 📸 Dashboard
+
+Abaixo está uma prévia do meu primeiro dashboard:
+
+<p align="center">
+  <img src="https://github.com/LuucasGabriel/Sales2022/blob/main/Design/Imagens/Captura%20de%20tela%202025-07-10%20201359.png?raw=true" alt="Meu Primeiro Dashboard em Power BI" width="80%"/>
+</p>
+
 ## 🚀 Objetivo
 
 Aprender os conceitos fundamentais do **Power BI**, como criação de medidas, organização de dados e desenvolvimento de dashboards interativos.
